@@ -1,4 +1,4 @@
-# elo_diff_fast.py  ―  差分再実行アルゴリズム・高速＆正確版
+# elo_diff.py  ―  差分再実行アルゴリズム・高速版
 from collections import deque
 from math import pow
 
